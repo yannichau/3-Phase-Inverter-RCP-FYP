@@ -2,13 +2,22 @@
 
 Welcome to the repository for my 2023 Final Year Project! The instructions below are adapted to Markdown from the user guide in the appendix of my report.
 
-## Cover Notes
-
 - Project Title: Deployment of Rapid Control Prototyping Technique for 3-phase Inverters
 - Student: Yan To Chau
 - Project Supervisor: Professor Tim Green
 - Second Marker: Dr Balarko Chaudhuri
-- Special Thanks to: Dr Yue Zhu
+  
+Special Thanks to: Dr Yue Zhu
+
+## Files in this repository
+
+1. `Simplus`: Consists of the Simplus hardware Simulink model files for all 3 configurations (GFM, GFL, Dual)
+2. `Simulation`: Consists of the simulation Simulink model files for all 3 configurations
+3. `Results`: Consists of scripts for visualising results from up to 5 tests simultaneously
+4. `DesignFiles`: Altium Design files for the 4 PCBs made during this project
+   1.  `Design1PCB`: Intermediate board for single inverter operating in open-loop
+   2.  `Design2PCB`: Dual inverter system board for both inverters. Assembly drawings, schematic and BOM has been pre-generated and included in this folder.
+   3.  `LCLFilter_Final` and `LCLFilter_Initial_LowPwr`: Simple boards for trying out different LCL filters. These 2 PCBs were manufactured using the Imperial EEE Maurice Hancock laboratory's Banham Milling Machine.
 
 ## Acronyms
 
@@ -23,7 +32,7 @@ Welcome to the repository for my 2023 Final Year Project! The instructions below
 
 The following 2 links can be used to access my project files:
 
-1.  [OneDrive](https://imperiallondon-my.sharepoint.com/:f:/g/personal/ytc19_ic_ac_uk/ElYF3Bl1xm9Nkzjqa6GZ_kABvirkBs4ug2XvBkXrjVuk5g?e=yOIcj3): Datasets
+1.  [OneDrive](https://imperiallondon-my.sharepoint.com/:f:/g/personal/ytc19_ic_ac_uk/ElYF3Bl1xm9Nkzjqa6GZ_kABvirkBs4ug2XvBkXrjVuk5g?e=yOIcj3): Datasets (only accessible to Imperial College users, will expire after my account closes in November 2023)
 2.  [GitHub](https://github.com/yannichau/3-Phase-Inverter-RCP-FYP):
     Altium design files, Simplus and Simulation Model Files (.slx) for
     all three configurations GFM, GFL, dual), scripts for generating plots
