@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Intermediate_LCL_Revised_20230413.PcbDoc   13/04/2023  16:35:59
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Intermediate_LCL_Revised_20230413.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.7mm (28mil)                                             Round             2         PTH        7.62mm (0.30inch)
+T2      0.711mm (28mil)                                           Round             24        PTH        403.11mm (15.87inch)
+T3      0.74mm (29mil)                                            Round             100       PTH        191.26mm (7.53inch)
+T4      1.02mm (40mil)                                            Round             80        PTH        708.15mm (27.88inch)
+T5      1.2mm (47mil)                                             Round             30        PTH        443.45mm (17.46inch)
+T6      1.27mm (50mil)                                            Round             12        PTH        309.32mm (12.18inch)
+T7      1.3mm (51mil)                                             Round             12        PTH        526.92mm (20.75inch)
+T8      1.32mm (52mil)                                            Round             20        PTH        542.10mm (21.34inch)
+T9      1.8mm (71mil)                                             Round             36        PTH        1108.75mm (43.65inch)
+T10     1.9mm (75mil)                                             Round             2         PTH        128.55mm (5.06inch)
+T11     5.5mm (217mil)                                            Round             10        PTH        1594.56mm (62.78inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              328
+
+Total Processing Time (hh:mm:ss) : 00:00:00

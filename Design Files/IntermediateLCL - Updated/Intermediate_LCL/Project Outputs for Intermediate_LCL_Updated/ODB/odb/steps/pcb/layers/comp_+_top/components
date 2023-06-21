@@ -1,0 +1,996 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 17 281.178 308.102 180 N U6 4ch_Op_Amp ;0=1,1=0.0000
+TOP 0 283.57800028 304.292 90 N 39 1 U6-1
+TOP 1 283.57800028 305.562 90 N 39 2 U6-2
+TOP 2 283.57800028 306.832 90 N 15 5 U6-3
+TOP 3 283.57800028 308.102 90 N 99 24 U6-4
+TOP 4 283.57800028 309.372 90 N 5 2 U6-5
+TOP 5 283.57800028 310.642 90 N 6 2 U6-6
+TOP 6 283.57800028 311.912 90 N 1 1 U6-7
+TOP 7 278.77799972 311.912 90 N 0 6 U6-8
+TOP 8 278.77799972 310.642 90 N 0 7 U6-9
+TOP 9 278.77799972 309.372 90 N 0 8 U6-10
+TOP 10 278.77799972 308.102 90 N 98 25 U6-11
+TOP 11 278.77799972 306.832 90 N 0 9 U6-12
+TOP 12 278.77799972 305.562 90 N 0 10 U6-13
+TOP 13 278.77799972 304.292 90 N 0 11 U6-14
+#
+# CMP 1
+CMP 17 63.95999908 312.89899828 0 N U5 4ch_Op_Amp ;0=1,1=0.0000
+TOP 0 61.5599988 316.70899828 270 N 42 3 U5-1
+TOP 1 61.5599988 315.43899828 270 N 42 4 U5-2
+TOP 2 61.5599988 314.16899828 270 N 16 5 U5-3
+TOP 3 61.5599988 312.89899828 270 N 99 23 U5-4
+TOP 4 61.5599988 311.62899828 270 N 22 2 U5-5
+TOP 5 61.5599988 310.35899828 270 N 31 2 U5-6
+TOP 6 61.5599988 309.08899828 270 N 25 1 U5-7
+TOP 7 66.35999936 309.08899828 270 N 24 1 U5-8
+TOP 8 66.35999936 310.35899828 270 N 30 2 U5-9
+TOP 9 66.35999936 311.62899828 270 N 21 2 U5-10
+TOP 10 66.35999936 312.89899828 270 N 98 24 U5-11
+TOP 11 66.35999936 314.16899828 270 N 20 2 U5-12
+TOP 12 66.35999936 315.43899828 270 N 29 2 U5-13
+TOP 13 66.35999936 316.70899828 270 N 23 1 U5-14
+#
+# CMP 2
+CMP 1 63.5 318.77 0 N R38_3 10k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 62.54999936 318.77 270 N 42 2 R38_3-1
+TOP 1 64.45000064 318.77 270 N 29 1 R38_3-2
+#
+# CMP 3
+CMP 1 66.802 305.562 0 N R38_2 10k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 65.85199936 305.562 270 N 42 1 R38_2-1
+TOP 1 67.75200064 305.562 270 N 30 1 R38_2-2
+#
+# CMP 4
+CMP 1 60.198 305.562 180 N R38_1 10k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 61.14800064 305.562 90 N 42 0 R38_1-1
+TOP 1 59.24799936 305.562 90 N 31 1 R38_1-2
+#
+# CMP 5
+CMP 1 67.75200064 318.77 0 N R37_3 200k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 66.802 318.77 270 N 29 0 R37_3-1
+TOP 1 68.70200128 318.77 270 N 23 0 R37_3-2
+#
+# CMP 6
+CMP 1 70.866 308.16799936 270 N R37_2 200k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 70.866 307.21799872 180 N 30 0 R37_2-1
+TOP 1 70.866 309.118 180 N 24 0 R37_2-2
+#
+# CMP 7
+CMP 1 56.388 308.102 270 N R37_1 200k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 56.388 307.15199936 180 N 31 0 R37_1-1
+TOP 1 56.388 309.05200064 180 N 25 0 R37_1-2
+#
+# CMP 8
+CMP 1 302.768 316.738 0 N R34_3 10k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 301.81799936 316.738 270 N 41 2 R34_3-1
+TOP 1 303.71800064 316.738 270 N 26 1 R34_3-2
+#
+# CMP 9
+CMP 1 307.086 303.276 0 N R34_2 10k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 306.13599936 303.276 270 N 41 1 R34_2-1
+TOP 1 308.03600064 303.276 270 N 27 1 R34_2-2
+#
+# CMP 10
+CMP 1 296.926 307.52800064 90 N R34_1 10k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 296.926 308.47800128 0 N 41 0 R34_1-1
+TOP 1 296.926 306.578 0 N 28 1 R34_1-2
+#
+# CMP 11
+CMP 1 308.29000064 316.738 0 N R33_3 200k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 307.34 316.738 270 N 26 0 R33_3-1
+TOP 1 309.24000128 316.738 270 N 71 0 R33_3-2
+#
+# CMP 12
+CMP 1 311.658 304.292 270 N R33_2 200k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 311.658 303.34199936 180 N 27 0 R33_2-1
+TOP 1 311.658 305.24200064 180 N 72 0 R33_2-2
+#
+# CMP 13
+CMP 1 300.99 303.276 0 N R33_1 200k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 300.03999936 303.276 270 N 28 0 R33_1-1
+TOP 1 301.94000064 303.276 270 N 73 0 R33_1-2
+#
+# CMP 14
+CMP 0 288.29 300.482 90 N C6 2.2uF_0805 ;0=1,1=0.0000
+TOP 0 288.29 301.43200064 0 N 15 2 C6-1
+TOP 1 288.29 299.53199936 0 N 67 0 C6-2
+#
+# CMP 15
+CMP 0 48.006 307.848 0 N C4 2.2uF_0805 ;0=1,1=0.0000
+TOP 0 47.05599936 307.848 270 N 16 2 C4-1
+TOP 1 48.95600064 307.848 270 N 38 0 C4-2
+#
+# CMP 16
+CMP 17 305.054 310.388 0 N U4 4ch_Op_Amp ;0=1,1=0.0000
+TOP 0 302.65399972 314.198 270 N 41 3 U4-1
+TOP 1 302.65399972 312.928 270 N 41 4 U4-2
+TOP 2 302.65399972 311.658 270 N 15 4 U4-3
+TOP 3 302.65399972 310.388 270 N 99 22 U4-4
+TOP 4 302.65399972 309.118 270 N 19 2 U4-5
+TOP 5 302.65399972 307.848 270 N 28 2 U4-6
+TOP 6 302.65399972 306.578 270 N 73 1 U4-7
+TOP 7 307.45400028 306.578 270 N 72 1 U4-8
+TOP 8 307.45400028 307.848 270 N 27 2 U4-9
+TOP 9 307.45400028 309.118 270 N 18 2 U4-10
+TOP 10 307.45400028 310.388 270 N 98 23 U4-11
+TOP 11 307.45400028 311.658 270 N 17 2 U4-12
+TOP 12 307.45400028 312.928 270 N 26 2 U4-13
+TOP 13 307.45400028 314.198 270 N 71 1 U4-14
+#
+# CMP 17
+CMP 17 38.16599936 312.13699828 180 N U3 4ch_Op_Amp ;0=1,1=0.0000
+TOP 0 40.56599964 308.32699828 90 N 40 1 U3-1
+TOP 1 40.56599964 309.59699828 90 N 40 2 U3-2
+TOP 2 40.56599964 310.86699828 90 N 16 4 U3-3
+TOP 3 40.56599964 312.13699828 90 N 99 21 U3-4
+TOP 4 40.56599964 313.40699828 90 N 7 2 U3-5
+TOP 5 40.56599964 314.67699828 90 N 8 2 U3-6
+TOP 6 40.56599964 315.94699828 90 N 3 1 U3-7
+TOP 7 35.76599908 315.94699828 90 N 0 0 U3-8
+TOP 8 35.76599908 314.67699828 90 N 0 1 U3-9
+TOP 9 35.76599908 313.40699828 90 N 0 2 U3-10
+TOP 10 35.76599908 312.13699828 90 N 98 22 U3-11
+TOP 11 35.76599908 310.86699828 90 N 0 3 U3-12
+TOP 12 35.76599908 309.59699828 90 N 0 4 U3-13
+TOP 13 35.76599908 308.32699828 90 N 0 5 U3-14
+#
+# CMP 18
+CMP 1 280.924 300.482 270 N R15 10k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 280.924 299.53199936 180 N 2 0 R15-1
+TOP 1 280.924 301.43200064 180 N 5 1 R15-2
+#
+# CMP 19
+CMP 1 288.036 306.13599936 270 N R14 10k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 288.036 305.18599872 180 N 39 0 R14-1
+TOP 1 288.036 307.086 180 N 6 1 R14-2
+#
+# CMP 20
+CMP 1 288.036 311.15 90 N R12 200k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 288.036 312.10000064 0 N 1 0 R12-1
+TOP 1 288.036 310.19999936 0 N 6 0 R12-2
+#
+# CMP 21
+CMP 1 284.988 300.482 90 N R11 20k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 284.988 301.43200064 0 N 15 3 R11-1
+TOP 1 284.988 299.53199936 0 N 67 1 R11-2
+#
+# CMP 22
+CMP 1 35.814 304.038 270 N R9 10k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 35.814 303.08799936 180 N 4 0 R9-1
+TOP 1 35.814 304.98800064 180 N 7 1 R9-2
+#
+# CMP 23
+CMP 1 47.30999936 316.20099828 90 N R6 200k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 47.30999936 317.15099892 0 N 3 0 R6-1
+TOP 1 47.30999936 315.25099764 0 N 8 1 R6-2
+#
+# CMP 24
+CMP 1 48.07199936 310.61299828 0 N R5 20k_0805 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 47.12199872 310.61299828 270 N 16 3 R5-1
+TOP 1 49.022 310.61299828 270 N 38 1 R5-2
+#
+# CMP 25
+CMP 15 320.294 277.622 0 N C2 Earth_Capacitor ;0=2,1=6.0000
+PRP Availability 'Unavailable'
+PRP MF ''
+PRP MP 'C1206C120J5GACTU'
+PRP Package 'None'
+PRP Price 'None'
+PRP Value ''
+TOP 0 316.484 277.622 0 N 97 59 C2-1
+TOP 1 324.104 277.622 0 N 43 1 C2-2
+#
+# CMP 26
+CMP 13 248.412 174.498 0 N J20 M5_Mounting_Hole ;0=2,1=0.0000
+TOP 0 248.412 174.498 0 N 0 58 J20-1
+#
+# CMP 27
+CMP 13 33.02 267.716 0 N J19 M5_Mounting_Hole ;0=2,1=0.0000
+TOP 0 33.02 267.716 0 N 0 12 J19-1
+#
+# CMP 28
+CMP 12 342.392 276.86 0 N J18 M5_Earthing_Hole ;0=2,1=0.0000
+TOP 0 342.392 276.86 0 N 43 2 J18-1
+#
+# CMP 29
+CMP 13 257.81 267.716 0 N J17 M5_Mounting_Hole ;0=2,1=0.0000
+TOP 0 257.81 267.716 0 N 0 13 J17-1
+#
+# CMP 30
+CMP 13 128.016 267.716 0 N J16 M5_Mounting_Hole ;0=2,1=0.0000
+TOP 0 128.016 267.716 0 N 0 14 J16-1
+#
+# CMP 31
+CMP 13 33.02 327.406 0 N J15 M5_Mounting_Hole ;0=2,1=0.0000
+TOP 0 33.02 327.406 0 N 0 15 J15-1
+#
+# CMP 32
+CMP 13 342.9 327.406 0 N J14 M5_Mounting_Hole ;0=2,1=0.0000
+TOP 0 342.9 327.406 0 N 0 16 J14-1
+#
+# CMP 33
+CMP 13 342.9 175.26 0 N J13 M5_Mounting_Hole ;0=2,1=0.0000
+TOP 0 342.9 175.26 0 N 0 17 J13-1
+#
+# CMP 34
+CMP 13 33.02 175.514 0 N J10 M5_Mounting_Hole ;0=2,1=0.0000
+TOP 0 33.02 175.514 0 N 0 18 J10-1
+#
+# CMP 35
+CMP 13 128.016 174.244 0 N J5 M5_Mounting_Hole ;0=2,1=0.0000
+TOP 0 128.016 174.244 0 N 0 19 J5-1
+#
+# CMP 36
+CMP 2 113.538 334.518 270 N TP35 AGND ;0=2,1=0.0000
+TOP 0 113.538 334.518 270 N 97 110 TP35-1
+#
+# CMP 37
+CMP 14 244.094 336.296 270 N TP20 PWMEN2 ;0=2,1=0.0000
+TOP 0 244.094 336.296 270 N 69 2 TP20-1
+#
+# CMP 38
+CMP 14 244.094 341.122 270 N TP19 OT2 ;0=2,1=0.0000
+TOP 0 244.094 341.122 270 N 70 2 TP19-1
+#
+# CMP 39
+CMP 14 195.58 341.376 270 N TP18 PWMEN1 ;0=2,1=0.0000
+TOP 0 195.58 341.376 270 N 89 2 TP18-1
+#
+# CMP 40
+CMP 14 195.58 336.55 270 N TP17 OT1 ;0=2,1=0.0000
+TOP 0 195.58 336.55 270 N 90 2 TP17-1
+#
+# CMP 41
+CMP 14 131.572 320.802 270 N TP16 VDC ;0=2,1=0.0000
+TOP 0 131.572 320.802 270 N 3 3 TP16-1
+#
+# CMP 42
+CMP 14 131.318 316.484 270 N TP15 I3 ;0=2,1=0.0000
+TOP 0 131.318 316.484 270 N 23 3 TP15-1
+#
+# CMP 43
+CMP 14 138.938 320.802 270 N TP14 I2 ;0=2,1=0.0000
+TOP 0 138.938 320.802 270 N 24 3 TP14-1
+#
+# CMP 44
+CMP 14 138.938 316.738 270 N TP13 I1 ;0=2,1=0.0000
+TOP 0 138.938 316.738 270 N 25 3 TP13-1
+#
+# CMP 45
+CMP 14 124.714 307.848 270 N TP11 VC_1C ;0=2,1=0.0000
+TOP 0 124.714 307.848 270 N 61 2 TP11-1
+#
+# CMP 46
+CMP 14 151.892 308.102 270 N TP10 VC_1B ;0=2,1=0.0000
+TOP 0 151.892 308.102 270 N 87 2 TP10-1
+#
+# CMP 47
+CMP 14 176.784 307.848 0 N TP9 VC_1A ;0=2,1=0.0000
+TOP 0 176.784 307.848 0 N 88 2 TP9-1
+#
+# CMP 48
+CMP 14 201.93 309.118 0 N TP8 VC_2C ;0=2,1=0.0000
+TOP 0 201.93 309.118 0 N 53 2 TP8-1
+#
+# CMP 49
+CMP 14 228.6 309.372 0 N TP7 VC_2B ;0=2,1=0.0000
+TOP 0 228.6 309.372 0 N 54 2 TP7-1
+#
+# CMP 50
+CMP 14 253.746 309.88 0 N TP6 VC_2A ;0=2,1=0.0000
+TOP 0 253.746 309.88 0 N 55 2 TP6-1
+#
+# CMP 51
+CMP 14 172.466 318.77 0 N TP4 VDC ;0=2,1=0.0000
+TOP 0 172.466 318.77 0 N 1 3 TP4-1
+#
+# CMP 52
+CMP 14 172.212 322.834 0 N TP3 I2 ;0=2,1=0.0000
+TOP 0 172.212 322.834 0 N 72 3 TP3-1
+#
+# CMP 53
+CMP 14 179.578 318.77 0 N TP2 I1 ;0=2,1=0.0000
+TOP 0 179.578 318.77 0 N 73 3 TP2-1
+#
+# CMP 54
+CMP 14 179.578 322.834 0 N TP1 I3 ;0=2,1=0.0000
+TOP 0 179.578 322.834 0 N 71 3 TP1-1
+#
+# CMP 55
+CMP 11 255.778 288.29 270 N U2_1 LV25P ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'LEM'
+PRP Manufacturer_Part_Number 'LV25P'
+PRP Mouser_Part_Number ''
+PRP Mouser_Price/Stock ''
+TOP 0 263.398 278.13 270 N 59 4 U2_1-1
+TOP 1 263.398 298.45 270 N 55 3 U2_1-2
+TOP 2 255.778 298.45 270 N 99 32 U2_1-3
+TOP 3 248.158 298.45 270 N 98 33 U2_1-4
+TOP 4 248.158 278.13 270 N 11 1 U2_1-5
+#
+# CMP 56
+CMP 4 209.804 307.848 90 N R4_3 130_1206 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 209.804 309.54799914 90 N 97 58 R4_3-1
+TOP 1 209.804 306.14800086 90 N 53 0 R4_3-2
+#
+# CMP 57
+CMP 6 35.98800016 238.76 180 N J7 LCL1_In ;0=2,1=0.0000
+PRP ComponentLink1Description 'Upverter'
+PRP ComponentLink1URL 'https://upverter.com/upn/revision/2b80058b23306b34/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://upverter.com/datasheet/d9a5d2e095ec14efdc364e45047c257fc4ca76eb.pdf'
+PRP Digikey_Description 'CONN TERM BLOCK 5.08MM VERT 3POS PCB'
+PRP Digikey_Part_Number 'ED2610-ND'
+PRP helpURL 'https://upverter.com/upn/revision/2b80058b23306b34/'
+PRP Is_Female 'yes'
+PRP Lead_Free 'yes'
+PRP Manufacturer 'On Shore Technology'
+PRP Package 'HDR03'
+PRP Part_Number 'OSTTC032162'
+PRP Price '0.382016875697'
+PRP RoHS 'TRUE'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 'ED2610-ND'
+PRP Supplier_Part_Number_2 ''
+PRP Temperature '-30°C to +105°C'
+PRP Temperature_Range_High '+105°C'
+PRP Temperature_Range_Low '-30°C'
+PRP Voltage '300V'
+TOP 0 40.98800032 238.76 180 N 44 0 J7-1
+TOP 1 35.98800016 238.76 180 N 45 0 J7-2
+TOP 2 30.988 238.76 0 N 46 0 J7-3
+#
+# CMP 58
+CMP 11 202.438 288.29 270 N U2_3 LV25P ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'LEM'
+PRP Manufacturer_Part_Number 'LV25P'
+PRP Mouser_Part_Number ''
+PRP Mouser_Price/Stock ''
+TOP 0 210.058 278.13 270 N 59 6 U2_3-1
+TOP 1 210.058 298.45 270 N 53 3 U2_3-2
+TOP 2 202.438 298.45 270 N 99 34 U2_3-3
+TOP 3 194.818 298.45 270 N 98 35 U2_3-4
+TOP 4 194.818 278.13 270 N 9 1 U2_3-5
+#
+# CMP 59
+CMP 11 229.108 288.29 270 N U2_2 LV25P ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'LEM'
+PRP Manufacturer_Part_Number 'LV25P'
+PRP Mouser_Part_Number ''
+PRP Mouser_Price/Stock ''
+TOP 0 236.728 278.13 270 N 59 5 U2_2-1
+TOP 1 236.728 298.45 270 N 54 3 U2_2-2
+TOP 2 229.108 298.45 270 N 99 33 U2_2-3
+TOP 3 221.488 298.45 270 N 98 34 U2_2-4
+TOP 4 221.488 278.13 270 N 10 1 U2_2-5
+#
+# CMP 60
+CMP 4 236.728 307.848 90 N R4_2 130_1206 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 236.728 309.54799914 90 N 97 57 R4_2-1
+TOP 1 236.728 306.14800086 90 N 54 0 R4_2-2
+#
+# CMP 61
+CMP 4 263.398 307.848 90 N R4_1 130_1206 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 263.398 309.54799914 90 N 97 56 R4_1-1
+TOP 1 263.398 306.14800086 90 N 55 0 R4_1-2
+#
+# CMP 62
+CMP 5 197.91400092 270.002 180 N R3_3 10k_2512 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 200.914 270.002 180 N 56 0 R3_3-1
+TOP 1 194.91400184 270.002 180 N 9 0 R3_3-2
+#
+# CMP 63
+CMP 5 223.266 268.478 270 N R3_2 10k_2512 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 223.266 265.47800092 270 N 57 0 R3_2-1
+TOP 1 223.266 271.47799908 270 N 10 0 R3_2-2
+#
+# CMP 64
+CMP 5 248.158 268.224 270 N R3_1 10k_2512 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 248.158 265.22400092 270 N 58 0 R3_1-1
+TOP 1 248.158 271.22399908 270 N 11 0 R3_1-2
+#
+# CMP 65
+CMP 7 200.152 198.882 180 N L6_3 380uH ;0=2,1=0.0000
+TOP 0 208.31199892 198.882 180 N 56 3 L6_3-1
+TOP 1 191.99200108 198.882 180 N 50 1 L6_3-2
+#
+# CMP 66
+CMP 7 221.488 198.882 180 N L6_2 380uH ;0=2,1=0.0000
+TOP 0 229.64799892 198.882 180 N 57 3 L6_2-1
+TOP 1 213.32800108 198.882 180 N 51 1 L6_2-2
+#
+# CMP 67
+CMP 7 242.824 198.882 180 N L6_1 380uH ;0=2,1=0.0000
+TOP 0 250.98399892 198.882 180 N 58 3 L6_1-1
+TOP 1 234.66400108 198.882 180 N 52 1 L6_1-2
+#
+# CMP 68
+CMP 8 287.274 248.2596 270 N L5_3 4mH ;0=2,1=0.0000
+TOP 0 287.274 238.00960018 270 N 47 1 L5_3-1
+TOP 1 287.274 258.50959982 270 N 56 2 L5_3-2
+#
+# CMP 69
+CMP 8 287.274 216.662 270 N L5_2 4mH ;0=2,1=0.0000
+TOP 0 287.274 206.41200018 270 N 48 1 L5_2-1
+TOP 1 287.274 226.91199982 270 N 57 2 L5_2-2
+#
+# CMP 70
+CMP 8 287.274 184.7596 270 N L5_1 4mH ;0=2,1=0.0000
+TOP 0 287.274 174.50960018 270 N 49 1 L5_1-1
+TOP 1 287.274 195.00959982 270 N 58 2 L5_1-2
+#
+# CMP 71
+CMP 10 204.216 258.826 270 N C1_3 2.2uF_180V ;0=2,1=0.0000
+PRP Datasheet_Link 'https://docs.rs-online.com/a458/0900766b817170df.pdf'
+PRP Height '24.5mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'PHE450HF7220JR06L2'
+TOP 0 190.46599956 258.826 270 N 59 3 C1_3-1
+TOP 1 217.96600044 258.826 270 N 56 1 C1_3-2
+#
+# CMP 72
+CMP 10 222.504 242.316 270 N C1_2 2.2uF_180V ;0=2,1=0.0000
+PRP Datasheet_Link 'https://docs.rs-online.com/a458/0900766b817170df.pdf'
+PRP Height '24.5mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'PHE450HF7220JR06L2'
+TOP 0 208.75399956 242.316 270 N 59 2 C1_2-1
+TOP 1 236.25400044 242.316 270 N 57 1 C1_2-2
+#
+# CMP 73
+CMP 10 237.236 226.314 270 N C1_1 2.2uF_180V ;0=2,1=0.0000
+PRP Datasheet_Link 'https://docs.rs-online.com/a458/0900766b817170df.pdf'
+PRP Height '24.5mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'PHE450HF7220JR06L2'
+TOP 0 223.48599956 226.314 270 N 59 1 C1_1-1
+TOP 1 250.98600044 226.314 270 N 58 1 C1_1-2
+#
+# CMP 74
+CMP 11 122.428 288.29 270 N U1_3 LV25P ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'LEM'
+PRP Manufacturer_Part_Number 'LV25P'
+PRP Mouser_Part_Number ''
+PRP Mouser_Price/Stock ''
+TOP 0 130.048 278.13 270 N 60 6 U1_3-1
+TOP 1 130.048 298.45 270 N 61 3 U1_3-2
+TOP 2 122.428 298.45 270 N 99 31 U1_3-3
+TOP 3 114.808 298.45 270 N 98 32 U1_3-4
+TOP 4 114.808 278.13 270 N 12 1 U1_3-5
+#
+# CMP 75
+CMP 11 149.098 288.29 270 N U1_2 LV25P ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'LEM'
+PRP Manufacturer_Part_Number 'LV25P'
+PRP Mouser_Part_Number ''
+PRP Mouser_Price/Stock ''
+TOP 0 156.718 278.13 270 N 60 5 U1_2-1
+TOP 1 156.718 298.45 270 N 87 3 U1_2-2
+TOP 2 149.098 298.45 270 N 99 30 U1_2-3
+TOP 3 141.478 298.45 270 N 98 31 U1_2-4
+TOP 4 141.478 278.13 270 N 13 1 U1_2-5
+#
+# CMP 76
+CMP 11 175.768 288.29 270 N U1_1 LV25P ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'LEM'
+PRP Manufacturer_Part_Number 'LV25P'
+PRP Mouser_Part_Number ''
+PRP Mouser_Price/Stock ''
+TOP 0 183.388 278.13 270 N 60 4 U1_1-1
+TOP 1 183.388 298.45 270 N 88 3 U1_1-2
+TOP 2 175.768 298.45 270 N 99 29 U1_1-3
+TOP 3 168.148 298.45 270 N 98 30 U1_1-4
+TOP 4 168.148 278.13 270 N 14 1 U1_1-5
+#
+# CMP 77
+CMP 4 130.048 307.34 90 N R2_3 130_1206 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 130.048 309.03999914 90 N 97 55 R2_3-1
+TOP 1 130.048 305.64000086 90 N 61 0 R2_3-2
+#
+# CMP 78
+CMP 4 156.718 307.848 90 N R2_2 130_1206 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 156.718 309.54799914 90 N 97 54 R2_2-1
+TOP 1 156.718 306.14800086 90 N 87 0 R2_2-2
+#
+# CMP 79
+CMP 4 183.388 307.848 90 N R2_1 130_1206 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 183.388 309.54799914 90 N 97 53 R2_1-1
+TOP 1 183.388 306.14800086 90 N 88 0 R2_1-2
+#
+# CMP 80
+CMP 9 335.39800078 206.0956 180 N L2 30mH_CM ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://componentsearchengine.com//744839029220.pdf'
+PRP Height '39mm'
+PRP Manufacturer_Name 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '744839029220'
+PRP Mouser_Part_Number '710-744839029220'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744839029220?qs=MoCBKJu1Jj15mDhjF%2F4U%252Bg%3D%3D'
+TOP 0 345.948 190.09559898 180 N 64 1 L2-1
+TOP 1 345.948 206.0956 180 N 65 1 L2-2
+TOP 2 345.948 222.09560102 180 N 66 1 L2-3
+TOP 3 324.84800156 190.09559898 180 N 49 0 L2-4
+TOP 4 324.84800156 206.0956 180 N 48 0 L2-5
+TOP 5 324.84800156 222.09560102 180 N 47 0 L2-6
+#
+# CMP 81
+CMP 9 41.42901544 206.0956 0 N L1 30mH_CM ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://componentsearchengine.com//744839029220.pdf'
+PRP Height '39mm'
+PRP Manufacturer_Name 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '744839029220'
+PRP Mouser_Part_Number '710-744839029220'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744839029220?qs=MoCBKJu1Jj15mDhjF%2F4U%252Bg%3D%3D'
+TOP 0 30.87901622 222.09560102 0 N 46 1 L1-1
+TOP 1 30.87901622 206.0956 0 N 45 1 L1-2
+TOP 2 30.87901622 190.09559898 0 N 44 1 L1-3
+TOP 3 51.97901466 222.09560102 0 N 82 0 L1-4
+TOP 4 51.97901466 206.0956 0 N 81 0 L1-5
+TOP 5 51.97901466 190.09559898 0 N 80 0 L1-6
+#
+# CMP 82
+CMP 7 133.604 198.882 0 N L4_3 380uH ;0=2,1=0.0000
+TOP 0 125.44400108 198.882 0 N 86 3 L4_3-1
+TOP 1 141.76399892 198.882 0 N 83 1 L4_3-2
+#
+# CMP 83
+CMP 7 154.94 198.882 0 N L4_2 380uH ;0=2,1=0.0000
+TOP 0 146.78000108 198.882 0 N 62 3 L4_2-1
+TOP 1 163.09999892 198.882 0 N 84 1 L4_2-2
+#
+# CMP 84
+CMP 7 176.53 198.882 0 N L4_1 380uH ;0=2,1=0.0000
+TOP 0 168.37000108 198.882 0 N 63 3 L4_1-1
+TOP 1 184.68999892 198.882 0 N 85 1 L4_1-2
+#
+# CMP 85
+CMP 8 89.29902384 184.7596 270 N L3_3 4mH ;0=2,1=0.0000
+TOP 0 89.29902384 174.50960018 270 N 80 1 L3_3-1
+TOP 1 89.29902384 195.00959982 270 N 86 2 L3_3-2
+#
+# CMP 86
+CMP 8 89.29902384 216.662 270 N L3_2 4mH ;0=2,1=0.0000
+TOP 0 89.29902384 206.41200018 270 N 81 1 L3_2-1
+TOP 1 89.29902384 226.91199982 270 N 62 2 L3_2-2
+#
+# CMP 87
+CMP 8 89.29902384 248.2596 270 N L3_1 4mH ;0=2,1=0.0000
+TOP 0 89.29902384 238.00960018 270 N 82 1 L3_1-1
+TOP 1 89.29902384 258.50959982 270 N 63 2 L3_1-2
+#
+# CMP 88
+CMP 6 340.94799984 238.76 180 N J9 LCL2_In ;0=2,1=0.0000
+PRP ComponentLink1Description 'Upverter'
+PRP ComponentLink1URL 'https://upverter.com/upn/revision/2b80058b23306b34/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://upverter.com/datasheet/d9a5d2e095ec14efdc364e45047c257fc4ca76eb.pdf'
+PRP Digikey_Description 'CONN TERM BLOCK 5.08MM VERT 3POS PCB'
+PRP Digikey_Part_Number 'ED2610-ND'
+PRP helpURL 'https://upverter.com/upn/revision/2b80058b23306b34/'
+PRP Is_Female 'yes'
+PRP Lead_Free 'yes'
+PRP Manufacturer 'On Shore Technology'
+PRP Package 'HDR03'
+PRP Part_Number 'OSTTC032162'
+PRP Price '0.382016875697'
+PRP RoHS 'TRUE'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 'ED2610-ND'
+PRP Supplier_Part_Number_2 ''
+PRP Temperature '-30°C to +105°C'
+PRP Temperature_Range_High '+105°C'
+PRP Temperature_Range_Low '-30°C'
+PRP Voltage '300V'
+TOP 0 345.948 238.76 180 N 66 0 J9-1
+TOP 1 340.94799984 238.76 180 N 65 0 J9-2
+TOP 2 335.94799968 238.76 0 N 64 0 J9-3
+#
+# CMP 89
+CMP 6 222.07599984 172.72 0 N J8 LCL2_Out ;0=2,1=0.0000
+PRP ComponentLink1Description 'Upverter'
+PRP ComponentLink1URL 'https://upverter.com/upn/revision/2b80058b23306b34/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://upverter.com/datasheet/d9a5d2e095ec14efdc364e45047c257fc4ca76eb.pdf'
+PRP Digikey_Description 'CONN TERM BLOCK 5.08MM VERT 3POS PCB'
+PRP Digikey_Part_Number 'ED2610-ND'
+PRP helpURL 'https://upverter.com/upn/revision/2b80058b23306b34/'
+PRP Is_Female 'yes'
+PRP Lead_Free 'yes'
+PRP Manufacturer 'On Shore Technology'
+PRP Package 'HDR03'
+PRP Part_Number 'OSTTC032162'
+PRP Price '0.382016875697'
+PRP RoHS 'TRUE'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 'ED2610-ND'
+PRP Supplier_Part_Number_2 ''
+PRP Temperature '-30°C to +105°C'
+PRP Temperature_Range_High '+105°C'
+PRP Temperature_Range_Low '-30°C'
+PRP Voltage '300V'
+TOP 0 217.07599968 172.72 0 N 50 0 J8-1
+TOP 1 222.07599984 172.72 0 N 51 0 J8-2
+TOP 2 227.076 172.72 180 N 52 0 J8-3
+#
+# CMP 90
+CMP 5 114.808 268.732 270 N R1_3 10k_2512 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 114.808 265.73200092 270 N 86 0 R1_3-1
+TOP 1 114.808 271.73199908 270 N 12 0 R1_3-2
+#
+# CMP 91
+CMP 5 141.478 268.732 270 N R1_2 10k_2512 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 141.478 265.73200092 270 N 62 0 R1_2-1
+TOP 1 141.478 271.73199908 270 N 13 0 R1_2-2
+#
+# CMP 92
+CMP 5 165.1 269.748 0 N R1_1 10k_2512 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=836123'
+PRP MF 'Bourns'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=836123'
+PRP MP 'CRE2512-FZ-R007E-3'
+PRP Package '6432 Stackpole'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRE2512-FZ-R007E-3/Bourns/view-part/836123/?ref=snap'
+PRP Value ''
+TOP 0 162.10000092 269.748 0 N 63 0 R1_1-1
+TOP 1 168.09999908 269.748 0 N 14 0 R1_1-2
+#
+# CMP 93
+CMP 6 154.76599984 172.466 0 N J6 LCL1_Out ;0=2,1=0.0000
+PRP ComponentLink1Description 'Upverter'
+PRP ComponentLink1URL 'https://upverter.com/upn/revision/2b80058b23306b34/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://upverter.com/datasheet/d9a5d2e095ec14efdc364e45047c257fc4ca76eb.pdf'
+PRP Digikey_Description 'CONN TERM BLOCK 5.08MM VERT 3POS PCB'
+PRP Digikey_Part_Number 'ED2610-ND'
+PRP helpURL 'https://upverter.com/upn/revision/2b80058b23306b34/'
+PRP Is_Female 'yes'
+PRP Lead_Free 'yes'
+PRP Manufacturer 'On Shore Technology'
+PRP Package 'HDR03'
+PRP Part_Number 'OSTTC032162'
+PRP Price '0.382016875697'
+PRP RoHS 'TRUE'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 'ED2610-ND'
+PRP Supplier_Part_Number_2 ''
+PRP Temperature '-30°C to +105°C'
+PRP Temperature_Range_High '+105°C'
+PRP Temperature_Range_Low '-30°C'
+PRP Voltage '300V'
+TOP 0 149.76599968 172.466 0 N 83 0 J6-1
+TOP 1 154.76599984 172.466 0 N 84 0 J6-2
+TOP 2 159.766 172.466 180 N 85 0 J6-3
+#
+# CMP 94
+CMP 10 139.954 226.314 90 N C3_3 2.2uF_180V ;0=2,1=0.0000
+PRP Datasheet_Link 'https://docs.rs-online.com/a458/0900766b817170df.pdf'
+PRP Height '24.5mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'PHE450HF7220JR06L2'
+TOP 0 153.70400044 226.314 90 N 60 3 C3_3-1
+TOP 1 126.20399956 226.314 90 N 86 1 C3_3-2
+#
+# CMP 95
+CMP 10 157.48 242.316 90 N C3_2 2.2uF_180V ;0=2,1=0.0000
+PRP Datasheet_Link 'https://docs.rs-online.com/a458/0900766b817170df.pdf'
+PRP Height '24.5mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'PHE450HF7220JR06L2'
+TOP 0 171.23000044 242.316 90 N 60 2 C3_2-1
+TOP 1 143.72999956 242.316 90 N 62 1 C3_2-2
+#
+# CMP 96
+CMP 10 170.942 258.826 90 N C3_1 2.2uF_180V ;0=2,1=0.0000
+PRP Datasheet_Link 'https://docs.rs-online.com/a458/0900766b817170df.pdf'
+PRP Height '24.5mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'PHE450HF7220JR06L2'
+TOP 0 184.69200044 258.826 90 N 60 1 C3_1-1
+TOP 1 157.19199956 258.826 90 N 63 1 C3_1-2
+#

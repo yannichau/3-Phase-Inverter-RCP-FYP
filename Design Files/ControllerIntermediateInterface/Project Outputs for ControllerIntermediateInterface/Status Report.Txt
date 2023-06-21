@@ -1,0 +1,30 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [ControllerIntermediateInterface.PrjPcb]
+   Generated File[ControllerIntermediatePCB_Copper_Signal_Top.gbr]
+   Generated File[ControllerIntermediatePCB_Copper_Signal_Bot.gbr]
+   Generated File[ControllerIntermediatePCB_Pads_Bot.gbr]
+   Generated File[ControllerIntermediatePCB_Pads_Top.gbr]
+   Generated File[ControllerIntermediatePCB_Legend_Top.gbr]
+   Generated File[ControllerIntermediatePCB_Legend_Bot.gbr]
+   Generated File[ControllerIntermediatePCB_Soldermask_Top.gbr]
+   Generated File[ControllerIntermediatePCB_Soldermask_Bot.gbr]
+   Generated File[ControllerIntermediatePCB_Paste_Top.gbr]
+   Generated File[ControllerIntermediatePCB_Paste_Bot.gbr]
+   Generated File[ControllerIntermediatePCB_Keep-out.gbr]
+   Generated File[ControllerIntermediatePCB_Mechanical_1.gbr]
+   Generated File[ControllerIntermediatePCB_Mechanical_13.gbr]
+   Generated File[ControllerIntermediatePCB_Mechanical_15.gbr]
+   Generated File[ControllerIntermediatePCB_Profile.gbr]
+   Generated File[ControllerIntermediatePCB_NPTH_Drill.gbr]
+   Generated File[ControllerIntermediatePCB_PTH_Drill.gbr]
+   Generated File[ControllerIntermediatePCB_Drawing_1.gbr]
+   Generated File[ControllerIntermediatePCB_Drillmap_1.gbr]
+   Generated File[ControllerIntermediatePCB.EXTREP]
+   Generated File[ControllerIntermediatePCB.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 17:36:42 On 31/12/2022

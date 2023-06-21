@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:13:22 On 15/03/2023
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [LCLFilter_Compact.PcbDoc]
+   Generated File[LCLFilter_Compact.EXTREP]
+   Generated File[LCLFilter_Compact.REP]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 11:13:22 On 15/03/2023

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Damp3 Pin=J3-1
+Removed Pin From Net: NetName=Damp1 Pin=J3-3
+Added Pin To Net: NetName=Damp1 Pin=J3-1
+Added Pin To Net: NetName=Damp3 Pin=J3-3
+Added Member To Class: ClassName=LCLFilter_Updated Member=Component J3 3PinTerminal
+Added Room: Name=LCLFilter_Updated

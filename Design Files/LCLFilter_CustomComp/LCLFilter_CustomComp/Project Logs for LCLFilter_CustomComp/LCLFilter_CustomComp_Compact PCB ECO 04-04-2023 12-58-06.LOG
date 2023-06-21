@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=NetJ1_3 Pin=L1-1
+Removed Pin From Net: NetName=NetJ1_2 Pin=L3-1
+Removed Pin From Net: NetName=NetC2_2 Pin=L3-2
+Removed Pin From Net: NetName=NetC2_2 Pin=L4-1
+Removed Pin From Net: NetName=NetJ2_2 Pin=L4-2
+Removed Pin From Net: NetName=NetJ1_1 Pin=L5-1
+Removed Pin From Net: NetName=NetC3_2 Pin=L5-2
+Removed Pin From Net: NetName=NetC3_2 Pin=L6-1
+Removed Pin From Net: NetName=NetJ2_3 Pin=L6-2
+Change Component Footprint: Designator=L1 Old Footprint=Toroid Inductor 744156 New Footprint=4mH Custom
+Change Component Footprint: Designator=L4 Old Footprint=Toroid Inductor 744156 New Footprint=4mH Custom
+Change Component Footprint: Designator=L6 Old Footprint=Toroid Inductor 744156 New Footprint=4mH Custom
+Change Component Footprint: Designator=L2 Old Footprint=Toroid Inductor 744156 New Footprint=380uH Custom
+Change Component Footprint: Designator=L5 Old Footprint=Toroid Inductor 744156 New Footprint=380uH Custom
+Change Component Footprint: Designator=L3 Old Footprint=Toroid Inductor 744156 New Footprint=CM Choke Custom
+Change Component Comment : Designator=L1 Old Comment=744156 New Comment=4mH
+Change Component Comment : Designator=L4 Old Comment=744156 New Comment=4mH
+Change Component Comment : Designator=L6 Old Comment=744156 New Comment=4mH
+Change Component Comment : Designator=L3 Old Comment=744156 New Comment=30mH CM
+Change Component Comment : Designator=L2 Old Comment=744156 New Comment=380uH
+Change Component Comment : Designator=L5 Old Comment=744156 New Comment=380uH
+Change component parameters: Designator = "L1" ("L1"); Footprint = "Toroid Inductor 744156"; UniqueID = "\YVXBVXHO" ("\YVXBVXHO")
+Change component parameters: Designator = "L2" ("L2"); Footprint = "Toroid Inductor 744156"; UniqueID = "\AJJEYBKN" ("\AJJEYBKN")
+Change component parameters: Designator = "L3" ("L3"); Footprint = "Toroid Inductor 744156"; UniqueID = "\NGAXDCRR" ("\NGAXDCRR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//744839029220.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "39mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "744839029220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-744839029220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744839029220?qs=MoCBKJu1Jj15mDhjF%2F4U%252Bg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L4" ("L4"); Footprint = "Toroid Inductor 744156"; UniqueID = "\GVNPEVDE" ("\GVNPEVDE")
+Change component parameters: Designator = "L5" ("L5"); Footprint = "Toroid Inductor 744156"; UniqueID = "\JQPMPUWQ" ("\JQPMPUWQ")
+Change component parameters: Designator = "L6" ("L6"); Footprint = "Toroid Inductor 744156"; UniqueID = "\LABEPZSV" ("\LABEPZSV")
+Added Component: Designator=L7(380uH Custom)
+Added Pin To Net: NetName=NetJ1_3 Pin=L3-1
+Added Pin To Net: NetName=NetJ1_2 Pin=L3-2
+Added Pin To Net: NetName=NetJ1_1 Pin=L3-3
+Added Pin To Net: NetName=NetC2_2 Pin=L4-2
+Added Pin To Net: NetName=NetC2_2 Pin=L5-1
+Added Pin To Net: NetName=NetJ2_2 Pin=L5-2
+Added Pin To Net: NetName=NetC3_2 Pin=L6-2
+Added Pin To Net: NetName=NetC3_2 Pin=L7-1
+Added Pin To Net: NetName=NetJ2_3 Pin=L7-2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=L3-4
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL3_5 Pin=L3-5
+Added Pin To Net: NetName=NetL3_5 Pin=L4-1
+Added Net: Name=NetL3_5
+Added Pin To Net: NetName=NetL3_6 Pin=L3-6
+Added Pin To Net: NetName=NetL3_6 Pin=L6-1
+Added Net: Name=NetL3_6
+Added Member To Class: ClassName=LCLFilter_Updated Member=Component L7 380uH
+Added Room: Name=LCLFilter_Updated

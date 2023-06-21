@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Intermediate_LCL_Revised_20230413.PcbDoc]
+   Generated File[Intermediate_LCL_Revised_20230413.TXT]
+   Generated File[Intermediate_LCL_Revised_20230413.LDP]
+   Generated File[Intermediate_LCL_Revised_20230413.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:35:59 On 13/04/2023

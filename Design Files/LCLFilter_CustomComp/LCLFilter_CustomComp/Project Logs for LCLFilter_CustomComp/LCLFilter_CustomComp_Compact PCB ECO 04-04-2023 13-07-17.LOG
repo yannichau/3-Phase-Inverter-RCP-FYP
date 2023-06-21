@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetJ2_1 Pin=L2-2
+Removed Pin From Net: NetName=NetJ2_3 Pin=L7-2
+Added Pin To Net: NetName=NetJ2_3 Pin=L2-2
+Added Pin To Net: NetName=NetJ2_1 Pin=L7-2
+Added Room: Name=LCLFilter_Updated

@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LCLFilter_CustomComp_Compact.PcbDoc   04/04/2023  13:27:43
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LCLFilter_CustomComp_Compact.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      1.27mm (50mil)                                            Round             6         PTH        107.50mm (4.23inch)
+T2      1.3mm (51mil)                                             Round             9         PTH        183.20mm (7.21inch)
+T3      1.524mm (60mil)                                           Round             18        PTH        330.53mm (13.01inch)
+T4      3.4mm (134mil)                                            Round             4         PTH        247.51mm (9.74inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              37
+
+Total Processing Time (hh:mm:ss) : 00:00:00

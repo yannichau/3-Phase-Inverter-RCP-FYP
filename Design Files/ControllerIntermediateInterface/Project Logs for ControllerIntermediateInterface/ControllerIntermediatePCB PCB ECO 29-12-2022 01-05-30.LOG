@@ -1,0 +1,37 @@
+Added Component: Designator=J1(SAMTEC_SHF-125-01-L-D-RA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SHF-125-01-L-D-RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EPWM1A Pin=J1-01
+Added Pin To Net: NetName=GND Pin=J1-02
+Added Pin To Net: NetName=EPWM1B Pin=J1-03
+Added Pin To Net: NetName=GND Pin=J1-04
+Added Pin To Net: NetName=EPWM2A Pin=J1-05
+Added Pin To Net: NetName=GND Pin=J1-06
+Added Pin To Net: NetName=EPWM2B Pin=J1-07
+Added Pin To Net: NetName=GND Pin=J1-08
+Added Pin To Net: NetName=EPWM3A Pin=J1-09
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=EPWM3B Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J1-16
+Added Pin To Net: NetName=GND Pin=J1-18
+Added Pin To Net: NetName=GND Pin=J1-20
+Added Pin To Net: NetName=GND Pin=J1-22
+Added Pin To Net: NetName=GND Pin=J1-24
+Added Pin To Net: NetName=GND Pin=J1-26
+Added Pin To Net: NetName=GND Pin=J1-28
+Added Pin To Net: NetName=GND Pin=J1-30
+Added Pin To Net: NetName=GND Pin=J1-32
+Added Pin To Net: NetName=PCB_OT Pin=J1-33
+Added Pin To Net: NetName=GND Pin=J1-34
+Added Pin To Net: NetName=PWM_EN Pin=J1-35
+Added Pin To Net: NetName=GND Pin=J1-36
+Added Pin To Net: NetName=GND Pin=J1-38
+Added Pin To Net: NetName=GND Pin=J1-40
+Added Member To Class: ClassName=TopLevelBoard Member=Component J1 SHF-125-01-L-D-RA
+Added Room: Name=TopLevelBoard

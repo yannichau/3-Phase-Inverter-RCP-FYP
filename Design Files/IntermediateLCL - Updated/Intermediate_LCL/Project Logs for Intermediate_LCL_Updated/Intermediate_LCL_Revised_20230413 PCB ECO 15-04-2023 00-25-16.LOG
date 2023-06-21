@@ -1,0 +1,9 @@
+Change Component Comment : Designator=TP2 Old Comment=PCBTestpoint New Comment=I1
+Change Component Comment : Designator=TP13 Old Comment=PCBTestpoint New Comment=I1
+Change Component Comment : Designator=TP3 Old Comment=PCBTestpoint New Comment=I2
+Change Component Comment : Designator=TP14 Old Comment=PCBTestpoint New Comment=I2
+Change Component Comment : Designator=TP1 Old Comment=PCBTestpoint New Comment=I3
+Change Component Comment : Designator=TP15 Old Comment=PCBTestpoint New Comment=I3
+Change Component Comment : Designator=TP4 Old Comment=PCBTestpoint New Comment=VDC
+Change Component Comment : Designator=TP16 Old Comment=PCBTestpoint New Comment=VDC
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component C23 4.7uF_1206

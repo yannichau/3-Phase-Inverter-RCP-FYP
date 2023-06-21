@@ -1,0 +1,133 @@
+Added Component: Designator=J1(SAMTEC_SHF-125-01-L-D-RA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SHF-125-01-L-D-RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(SAMTEC_SHF-125-01-L-D-RA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SHF-125-01-L-D-RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(SAMTEC_SSW-110-01-T-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SSW-110-01-T-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssw-110-01-t-d/samtec?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSW-110-01-T-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SSW11001TD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SSW-110-01-T-D?qs=rkdpAy2aP%2F9uJOQW5acCOw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(SAMTEC_SSW-110-01-T-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SSW-110-01-T-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssw-110-01-t-d/samtec?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSW-110-01-T-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SSW11001TD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SSW-110-01-T-D?qs=rkdpAy2aP%2F9uJOQW5acCOw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=J1-42
+Added Pin To Net: NetName=+3V3 Pin=J1-44
+Added Pin To Net: NetName=+3V3 Pin=J1-46
+Added Pin To Net: NetName=+3V3 Pin=J1-48
+Added Pin To Net: NetName=+3V3 Pin=J1-50
+Added Net: Name=+3V3
+Added Pin To Net: NetName=AGND Pin=J2-01
+Added Pin To Net: NetName=AGND Pin=J2-02
+Added Pin To Net: NetName=AGND Pin=J2-04
+Added Pin To Net: NetName=AGND Pin=J2-06
+Added Pin To Net: NetName=AGND Pin=J2-08
+Added Pin To Net: NetName=AGND Pin=J2-13
+Added Pin To Net: NetName=AGND Pin=J2-14
+Added Pin To Net: NetName=AGND Pin=J2-16
+Added Pin To Net: NetName=AGND Pin=J2-18
+Added Pin To Net: NetName=AGND Pin=J2-20
+Added Pin To Net: NetName=AGND Pin=J2-25
+Added Pin To Net: NetName=AGND Pin=J2-26
+Added Pin To Net: NetName=AGND Pin=J2-28
+Added Pin To Net: NetName=AGND Pin=J2-30
+Added Pin To Net: NetName=AGND Pin=J2-37
+Added Pin To Net: NetName=AGND Pin=J2-38
+Added Pin To Net: NetName=AGND Pin=J2-49
+Added Pin To Net: NetName=AGND Pin=J2-50
+Added Pin To Net: NetName=AGND Pin=J3-2
+Added Net: Name=AGND
+Added Pin To Net: NetName=EPWM1A Pin=J1-01
+Added Pin To Net: NetName=EPWM1A Pin=J4-1
+Added Net: Name=EPWM1A
+Added Pin To Net: NetName=EPWM1B Pin=J1-03
+Added Pin To Net: NetName=EPWM1B Pin=J4-3
+Added Net: Name=EPWM1B
+Added Pin To Net: NetName=EPWM2A Pin=J1-05
+Added Pin To Net: NetName=EPWM2A Pin=J4-5
+Added Net: Name=EPWM2A
+Added Pin To Net: NetName=EPWM2B Pin=J1-07
+Added Pin To Net: NetName=EPWM2B Pin=J4-7
+Added Net: Name=EPWM2B
+Added Pin To Net: NetName=EPWM3A Pin=J1-09
+Added Pin To Net: NetName=EPWM3A Pin=J4-9
+Added Net: Name=EPWM3A
+Added Pin To Net: NetName=EPWM3B Pin=J1-11
+Added Pin To Net: NetName=EPWM3B Pin=J4-11
+Added Net: Name=EPWM3B
+Added Pin To Net: NetName=GND Pin=J1-02
+Added Pin To Net: NetName=GND Pin=J1-04
+Added Pin To Net: NetName=GND Pin=J1-06
+Added Pin To Net: NetName=GND Pin=J1-08
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J1-16
+Added Pin To Net: NetName=GND Pin=J1-18
+Added Pin To Net: NetName=GND Pin=J1-20
+Added Pin To Net: NetName=GND Pin=J1-22
+Added Pin To Net: NetName=GND Pin=J1-24
+Added Pin To Net: NetName=GND Pin=J1-26
+Added Pin To Net: NetName=GND Pin=J1-28
+Added Pin To Net: NetName=GND Pin=J1-30
+Added Pin To Net: NetName=GND Pin=J1-32
+Added Pin To Net: NetName=GND Pin=J1-34
+Added Pin To Net: NetName=GND Pin=J1-36
+Added Pin To Net: NetName=GND Pin=J1-38
+Added Pin To Net: NetName=GND Pin=J1-40
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Net: Name=GND
+Added Pin To Net: NetName=IA Pin=J2-15
+Added Pin To Net: NetName=IA Pin=J3-14
+Added Net: Name=IA
+Added Pin To Net: NetName=IB Pin=J2-17
+Added Pin To Net: NetName=IB Pin=J3-16
+Added Net: Name=IB
+Added Pin To Net: NetName=IC Pin=J2-19
+Added Pin To Net: NetName=IC Pin=J3-18
+Added Net: Name=IC
+Added Pin To Net: NetName=PCB_OT Pin=J1-33
+Added Pin To Net: NetName=PCB_OT Pin=J4-13
+Added Net: Name=PCB_OT
+Added Pin To Net: NetName=PWM_EN Pin=J1-35
+Added Pin To Net: NetName=PWM_EN Pin=J4-16
+Added Net: Name=PWM_EN
+Added Pin To Net: NetName=VA Pin=J2-03
+Added Pin To Net: NetName=VA Pin=J3-8
+Added Net: Name=VA
+Added Pin To Net: NetName=VB Pin=J2-05
+Added Pin To Net: NetName=VB Pin=J3-10
+Added Net: Name=VB
+Added Pin To Net: NetName=VC Pin=J2-07
+Added Pin To Net: NetName=VC Pin=J3-12
+Added Net: Name=VC
+Added Pin To Net: NetName=VDC Pin=J2-29
+Added Pin To Net: NetName=VDC Pin=J3-6
+Added Net: Name=VDC
+Added Pin To Net: NetName=VREF Pin=J2-27
+Added Pin To Net: NetName=VREF Pin=J3-11
+Added Pin To Net: NetName=VREF Pin=J3-20
+Added Net: Name=VREF
+Added Class: Name=TopLevelBoard
+Added Room: Name=TopLevelBoard

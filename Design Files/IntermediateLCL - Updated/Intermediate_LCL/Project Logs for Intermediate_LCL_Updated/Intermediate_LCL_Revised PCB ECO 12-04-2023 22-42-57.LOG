@@ -1,0 +1,8 @@
+Change Component Comment : Designator=TP35 Old Comment=Ground_TP New Comment=AGND
+Change Component Comment : Designator=TP28 Old Comment=Ground_TP New Comment=GND
+Change Component Comment : Designator=TP9 Old Comment=PCBTestpoint New Comment=VCAP_1A
+Change Component Comment : Designator=TP10 Old Comment=PCBTestpoint New Comment=VCAP_1B
+Change Component Comment : Designator=TP11 Old Comment=PCBTestpoint New Comment=VCAP_1C
+Change Component Comment : Designator=TP6 Old Comment=PCBTestpoint New Comment=VCAP_2A
+Change Component Comment : Designator=TP7 Old Comment=PCBTestpoint New Comment=VCAP_2B
+Change Component Comment : Designator=TP8 Old Comment=PCBTestpoint New Comment=VCAP_2C

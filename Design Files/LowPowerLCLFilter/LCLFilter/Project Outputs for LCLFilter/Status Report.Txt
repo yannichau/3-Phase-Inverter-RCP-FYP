@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [LCLFilter_Compact.PcbDoc]
+   Generated File[LCLFilter_Compact.TXT]
+   Generated File[LCLFilter_Compact.LDP]
+   Generated File[LCLFilter_Compact.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:42:20 On 15/03/2023

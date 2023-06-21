@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetJ7_1 Pin=L1-1
+Removed Pin From Net: NetName=NetJ7_3 Pin=L1-3
+Removed Pin From Net: NetName=NetJ9_1 Pin=L2-1
+Removed Pin From Net: NetName=NetJ9_3 Pin=L2-3
+Added Pin To Net: NetName=NetJ7_3 Pin=L1-1
+Added Pin To Net: NetName=NetJ7_1 Pin=L1-3
+Added Pin To Net: NetName=NetJ9_3 Pin=L2-1
+Added Pin To Net: NetName=NetJ9_1 Pin=L2-3
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component J7 3PinTerminal
+Added Room: Name=Intermediate_LCL_Top_20230320
+Added Room: Name=LCL_11
+Added Room: Name=LCL_12
+Added Room: Name=LCL_13
+Added Room: Name=LCL_21
+Added Room: Name=LCL_22
+Added Room: Name=LCL_23

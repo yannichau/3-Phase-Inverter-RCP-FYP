@@ -1,0 +1,9 @@
+Added Component: Designator=J4(M3 Mounting Hole)
+Added Component: Designator=J5(M3 Mounting Hole)
+Added Component: Designator=J6(M3 Mounting Hole)
+Added Component: Designator=J7(M3 Mounting Hole)
+Added Member To Class: ClassName=LCLFilter_Updated Member=Component J4 M3 Mounting Hole
+Added Member To Class: ClassName=LCLFilter_Updated Member=Component J5 M3 Mounting Hole
+Added Member To Class: ClassName=LCLFilter_Updated Member=Component J6 M3 Mounting Hole
+Added Member To Class: ClassName=LCLFilter_Updated Member=Component J7 M3 Mounting Hole
+Added Room: Name=LCLFilter_Updated

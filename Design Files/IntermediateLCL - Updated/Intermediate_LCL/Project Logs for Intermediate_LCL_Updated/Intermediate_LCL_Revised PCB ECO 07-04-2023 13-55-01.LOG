@@ -1,0 +1,73 @@
+Added Component: Designator=TP1(PCB 1.32mm TestPoint)
+Added Component: Designator=TP2(PCB 1.32mm TestPoint)
+Added Component: Designator=TP3(PCB 1.32mm TestPoint)
+Added Component: Designator=TP4(PCB 1.32mm TestPoint)
+Added Component: Designator=TP5(PCB 1.32mm TestPoint)
+Added Component: Designator=TP6(PCB 1.32mm TestPoint)
+Added Component: Designator=TP7(PCB 1.32mm TestPoint)
+Added Component: Designator=TP8(PCB 1.32mm TestPoint)
+Added Component: Designator=TP9(PCB 1.32mm TestPoint)
+Added Component: Designator=TP10(PCB 1.32mm TestPoint)
+Added Component: Designator=TP11(PCB 1.32mm TestPoint)
+Added Component: Designator=TP12(PCB 1.32mm TestPoint)
+Added Component: Designator=TP13(PCB 1.32mm TestPoint)
+Added Component: Designator=TP14(PCB 1.32mm TestPoint)
+Added Component: Designator=TP15(PCB 1.32mm TestPoint)
+Added Component: Designator=TP16(PCB 1.32mm TestPoint)
+Added Component: Designator=TP17(PCB 1.32mm TestPoint)
+Added Component: Designator=TP18(PCB 1.32mm TestPoint)
+Added Component: Designator=TP19(PCB 1.32mm TestPoint)
+Added Component: Designator=TP20(PCB 1.32mm TestPoint)
+Added Component: Designator=TP28(1.9mm Hole)
+Added Component: Designator=TP35(1.9mm Hole)
+Added Pin To Net: NetName=I_lB_1 Pin=TP1-1
+Added Pin To Net: NetName=I_lB_2 Pin=TP2-1
+Added Pin To Net: NetName=I_lB_3 Pin=TP3-1
+Added Pin To Net: NetName=VDC_2 Pin=TP4-1
+Added Pin To Net: NetName=VREF_2 Pin=TP5-1
+Added Pin To Net: NetName=V_capB_1 Pin=TP6-1
+Added Pin To Net: NetName=V_capB_2 Pin=TP7-1
+Added Pin To Net: NetName=V_capB_3 Pin=TP8-1
+Added Pin To Net: NetName=V_capA_1 Pin=TP9-1
+Added Pin To Net: NetName=V_capA_2 Pin=TP10-1
+Added Pin To Net: NetName=V_capA_3 Pin=TP11-1
+Added Pin To Net: NetName=VREF_1 Pin=TP12-1
+Added Pin To Net: NetName=VDC_1 Pin=TP13-1
+Added Pin To Net: NetName=I_lA_1 Pin=TP14-1
+Added Pin To Net: NetName=I_lA_2 Pin=TP15-1
+Added Pin To Net: NetName=I_lA_3 Pin=TP16-1
+Added Pin To Net: NetName=PCB_OT_1 Pin=TP17-1
+Added Pin To Net: NetName=PWM_EN_1 Pin=TP18-1
+Added Pin To Net: NetName=PCB_OT_2 Pin=TP19-1
+Added Pin To Net: NetName=PWM_EN_2 Pin=TP20-1
+Added Pin To Net: NetName=GND Pin=TP28-1
+Added Pin To Net: NetName=AGND Pin=TP35-1
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP1 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP2 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP3 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP4 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP5 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP6 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP7 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP8 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP9 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP10 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP11 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP12 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP13 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP14 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP15 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP16 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP17 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP18 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP19 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP20 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP28 Ground_TP
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP35 Ground_TP
+Added Room: Name=Intermediate_LCL_Top_20230320
+Added Room: Name=LCL_11
+Added Room: Name=LCL_12
+Added Room: Name=LCL_13
+Added Room: Name=LCL_21
+Added Room: Name=LCL_22
+Added Room: Name=LCL_23

@@ -1,0 +1,98 @@
+Removed Pin From Net: NetName=I_lA_1 Pin=J1-03
+Removed Pin From Net: NetName=I_lA_2 Pin=J1-05
+Removed Pin From Net: NetName=I_lA_3 Pin=J1-07
+Removed Pin From Net: NetName=VDC_1 Pin=J1-09
+Removed Pin From Net: NetName=V_capA_1 Pin=J1-15
+Removed Pin From Net: NetName=V_capA_2 Pin=J1-17
+Removed Pin From Net: NetName=V_capA_3 Pin=J1-19
+Removed Pin From Net: NetName=VREF_1 Pin=J1-21
+Removed Pin From Net: NetName=V_capB_1 Pin=J1-27
+Removed Pin From Net: NetName=V_capB_2 Pin=J1-29
+Removed Pin From Net: NetName=V_capB_3 Pin=J1-31
+Removed Pin From Net: NetName=VREF_2 Pin=J1-33
+Removed Pin From Net: NetName=I_lB_1 Pin=J1-39
+Removed Pin From Net: NetName=I_lB_2 Pin=J1-41
+Removed Pin From Net: NetName=I_lB_3 Pin=J1-43
+Removed Pin From Net: NetName=VDC_2 Pin=J1-45
+Removed Pin From Net: NetName=I_lA_1 Pin=TP2-1
+Removed Pin From Net: NetName=I_lA_2 Pin=TP4-1
+Removed Pin From Net: NetName=I_lA_3 Pin=TP6-1
+Removed Pin From Net: NetName=VDC_1 Pin=TP8-1
+Removed Pin From Net: NetName=V_capA_1 Pin=TP12-1
+Removed Pin From Net: NetName=V_capA_2 Pin=TP14-1
+Removed Pin From Net: NetName=V_capA_3 Pin=TP16-1
+Removed Pin From Net: NetName=VREF_1 Pin=TP18-1
+Removed Pin From Net: NetName=V_capB_1 Pin=TP21-1
+Removed Pin From Net: NetName=V_capB_2 Pin=TP22-1
+Removed Pin From Net: NetName=V_capB_3 Pin=TP23-1
+Removed Pin From Net: NetName=VREF_2 Pin=TP24-1
+Removed Pin From Net: NetName=I_lB_1 Pin=TP29-1
+Removed Pin From Net: NetName=I_lB_2 Pin=TP31-1
+Removed Pin From Net: NetName=I_lB_3 Pin=TP32-1
+Removed Pin From Net: NetName=VDC_2 Pin=TP33-1
+Removed Member From Class: ClassName=Intermediate_LCL_Top_20230320 Member=TP18
+Removed Member From Class: ClassName=Intermediate_LCL_Top_20230320 Member=TP21
+Removed Member From Class: ClassName=Intermediate_LCL_Top_20230320 Member=TP22
+Removed Member From Class: ClassName=Intermediate_LCL_Top_20230320 Member=TP23
+Removed Member From Class: ClassName=Intermediate_LCL_Top_20230320 Member=TP24
+Removed Member From Class: ClassName=Intermediate_LCL_Top_20230320 Member=TP29
+Removed Member From Class: ClassName=Intermediate_LCL_Top_20230320 Member=TP31
+Removed Member From Class: ClassName=Intermediate_LCL_Top_20230320 Member=TP32
+Removed Member From Class: ClassName=Intermediate_LCL_Top_20230320 Member=TP33
+Added Component: Designator=TP1(PCB 1.32mm TestPoint)
+Added Component: Designator=TP3(PCB 1.32mm TestPoint)
+Added Component: Designator=TP5(PCB 1.32mm TestPoint)
+Added Component: Designator=TP7(PCB 1.32mm TestPoint)
+Added Component: Designator=TP9(PCB 1.32mm TestPoint)
+Added Component: Designator=TP10(PCB 1.32mm TestPoint)
+Added Component: Designator=TP11(PCB 1.32mm TestPoint)
+Added Component: Designator=TP13(PCB 1.32mm TestPoint)
+Added Component: Designator=TP15(PCB 1.32mm TestPoint)
+Added Pin To Net: NetName=I_lB_1 Pin=J1-03
+Added Pin To Net: NetName=I_lB_2 Pin=J1-05
+Added Pin To Net: NetName=I_lB_3 Pin=J1-07
+Added Pin To Net: NetName=VDC_2 Pin=J1-09
+Added Pin To Net: NetName=VREF_2 Pin=J1-15
+Added Pin To Net: NetName=V_capB_1 Pin=J1-17
+Added Pin To Net: NetName=V_capB_2 Pin=J1-19
+Added Pin To Net: NetName=V_capB_3 Pin=J1-21
+Added Pin To Net: NetName=V_capA_1 Pin=J1-27
+Added Pin To Net: NetName=V_capA_2 Pin=J1-29
+Added Pin To Net: NetName=V_capA_3 Pin=J1-31
+Added Pin To Net: NetName=VREF_1 Pin=J1-33
+Added Pin To Net: NetName=VDC_1 Pin=J1-39
+Added Pin To Net: NetName=I_lA_1 Pin=J1-41
+Added Pin To Net: NetName=I_lA_2 Pin=J1-43
+Added Pin To Net: NetName=I_lA_3 Pin=J1-45
+Added Pin To Net: NetName=I_lB_1 Pin=TP1-1
+Added Pin To Net: NetName=I_lB_2 Pin=TP2-1
+Added Pin To Net: NetName=I_lB_3 Pin=TP3-1
+Added Pin To Net: NetName=VDC_2 Pin=TP4-1
+Added Pin To Net: NetName=VREF_2 Pin=TP5-1
+Added Pin To Net: NetName=V_capB_1 Pin=TP6-1
+Added Pin To Net: NetName=V_capB_2 Pin=TP7-1
+Added Pin To Net: NetName=V_capB_3 Pin=TP8-1
+Added Pin To Net: NetName=V_capA_1 Pin=TP9-1
+Added Pin To Net: NetName=V_capA_2 Pin=TP10-1
+Added Pin To Net: NetName=V_capA_3 Pin=TP11-1
+Added Pin To Net: NetName=VREF_1 Pin=TP12-1
+Added Pin To Net: NetName=VDC_1 Pin=TP13-1
+Added Pin To Net: NetName=I_lA_1 Pin=TP14-1
+Added Pin To Net: NetName=I_lA_2 Pin=TP15-1
+Added Pin To Net: NetName=I_lA_3 Pin=TP16-1
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP1 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP3 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP5 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP7 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP9 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP10 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP11 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP13 PCBTestpoint
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP15 PCBTestpoint
+Added Room: Name=Intermediate_LCL_Top_20230320
+Added Room: Name=LCL_11
+Added Room: Name=LCL_12
+Added Room: Name=LCL_13
+Added Room: Name=LCL_21
+Added Room: Name=LCL_22
+Added Room: Name=LCL_23

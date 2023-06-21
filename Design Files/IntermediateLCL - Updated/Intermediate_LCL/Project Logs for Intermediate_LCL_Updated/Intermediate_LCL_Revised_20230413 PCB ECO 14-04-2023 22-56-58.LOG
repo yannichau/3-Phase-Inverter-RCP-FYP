@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VDCA_Out Pin=J1-39
+Removed Pin From Net: NetName=I_OutA_1 Pin=J1-41
+Removed Pin From Net: NetName=I_OutA_2 Pin=J1-43
+Removed Pin From Net: NetName=I_OutA_3 Pin=J1-45
+Removed Pin From Net: NetName=VDCA_Out Pin=TP13-1
+Removed Pin From Net: NetName=I_OutA_1 Pin=TP14-1
+Removed Pin From Net: NetName=I_OutA_2 Pin=TP15-1
+Removed Pin From Net: NetName=I_OutA_3 Pin=TP16-1
+Removed Member From Class: ClassName=LCL_11 Member=C21
+Removed Member From Class: ClassName=LCL_12 Member=C22
+Removed Member From Class: ClassName=LCL_13 Member=C23
+Added Pin To Net: NetName=NetJ1_39 Pin=J1-39
+Added Pin To Net: NetName=NetJ1_39 Pin=TP13-1
+Added Net: Name=NetJ1_39
+Added Pin To Net: NetName=NetJ1_41 Pin=J1-41
+Added Pin To Net: NetName=NetJ1_41 Pin=TP14-1
+Added Net: Name=NetJ1_41
+Added Pin To Net: NetName=NetJ1_43 Pin=J1-43
+Added Pin To Net: NetName=NetJ1_43 Pin=TP15-1
+Added Net: Name=NetJ1_43
+Added Pin To Net: NetName=NetJ1_45 Pin=J1-45
+Added Pin To Net: NetName=NetJ1_45 Pin=TP16-1
+Added Net: Name=NetJ1_45

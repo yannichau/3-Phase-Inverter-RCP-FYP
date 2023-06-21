@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=1.65V Pin=U3-1
+Added Pin To Net: NetName=1.65V Pin=U3-2
+Added Pin To Net: NetName=NetR5_2 Pin=U3-3
+Add Pin To Net: Unknown Pin: Pin U3-04
+Added Pin To Net: NetName=OA1+ Pin=U3-5
+Added Pin To Net: NetName=OA1- Pin=U3-6
+Added Pin To Net: NetName=I_lA_1 Pin=U3-7
+Added Pin To Net: NetName=I_lA_2 Pin=U3-8
+Added Pin To Net: NetName=OA2- Pin=U3-9
+Added Pin To Net: NetName=1.65V Pin=U4-1
+Added Pin To Net: NetName=1.65V Pin=U4-2
+Added Pin To Net: NetName=NetR19_2 Pin=U4-3
+Add Pin To Net: Unknown Pin: Pin U4-04
+Added Pin To Net: NetName=OB1+ Pin=U4-5
+Added Pin To Net: NetName=OB1- Pin=U4-6
+Added Pin To Net: NetName=I_lB_1 Pin=U4-7
+Added Pin To Net: NetName=I_lB_2 Pin=U4-8
+Added Pin To Net: NetName=OB2- Pin=U4-9

@@ -1,0 +1,21 @@
+Added Component: Designator=J3(SAMTEC_SSW-110-01-T-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SSW-110-01-T-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssw-110-01-t-d/samtec?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSW-110-01-T-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SSW11001TD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SSW-110-01-T-D?qs=rkdpAy2aP%2F9uJOQW5acCOw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=J3-2
+Added Pin To Net: NetName=VDC Pin=J3-6
+Added Pin To Net: NetName=VA Pin=J3-8
+Added Pin To Net: NetName=VB Pin=J3-10
+Added Pin To Net: NetName=VREF Pin=J3-11
+Added Pin To Net: NetName=VC Pin=J3-12
+Added Pin To Net: NetName=IA Pin=J3-14
+Added Pin To Net: NetName=IB Pin=J3-16
+Added Pin To Net: NetName=IC Pin=J3-18
+Added Pin To Net: NetName=VREF Pin=J3-20
+Added Member To Class: ClassName=TopLevelBoard Member=Component J3 SSW-110-01-T-D
