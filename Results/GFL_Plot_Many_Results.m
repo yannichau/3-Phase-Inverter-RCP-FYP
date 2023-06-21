@@ -49,10 +49,8 @@ test_15 = ["SimplusData/GFL_13Jun_Moderate", "K_p = 0.61, K_i = 480"];
 test_16 = ["SimplusData/GFL_13Jun_Fast", "K_p = 1.22, K_i = 957"];
 test_17 = ["SimplusData/GFL_13Jun_Ultrafast", "K_p = 2.44, K_i = 957"];
 
-test_cap = ["SimData/GFL_LargeCap", "Large Capacitor"]; %simulation 061, 240 with 8.8uF capacitor
 sim_test = ["SimData/GFL_Sim_061_240_fixed", "Simulation"];
 
-% selected = [test_12; test_15; test_16];
 selected = [test_cap; sim_test];
 
 %% Select files
