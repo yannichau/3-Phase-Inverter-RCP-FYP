@@ -18,6 +18,12 @@ Special Thanks to: Dr Yue Zhu
    1.  `Design1PCB`: Intermediate board for single inverter operating in open-loop
    2.  `Design2PCB`: Dual inverter system board for both inverters. Assembly drawings, schematic and BOM has been pre-generated and included in this folder.
    3.  `LCLFilter_Final` and `LCLFilter_Initial_LowPwr`: Simple boards for trying out different LCL filters. These 2 PCBs were manufactured using the Imperial EEE Maurice Hancock laboratory's Banham Milling Machine.
+5.  `FYP Presentation Streamlined.pptx`: Slide deck for presentation.
+
+## Videos
+
+1. Practice for presentation: <https://youtu.be/GbfErqlS8Us>
+2. Demo: <https://youtu.be/VnrgIGNwcq8>
 
 ## Acronyms
 
